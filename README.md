@@ -7,10 +7,10 @@ This project features a two-page interactive Power BI dashboard designed to anal
 *Replace these placeholders with the paths to your screenshot images in your repository folder*
 
 ### Page 1: Product & Retailer Analytics
-![Product Analytics](Images/Product Analytics.png)
+![Product Analytics](Images/Product_Analytics.png)
 
 ### Page 2: Regional Performance & Executive Overview
-![Regional Analysis](Images/Regional Analysis.png)
+![Regional Analysis](Images/Regional_Analysis.png)
 
 ---
 
@@ -51,6 +51,6 @@ This project features a two-page interactive Power BI dashboard designed to anal
 ├── Reports/
 │   └── Adidas_US_Sales_Dashboard.pbix     <-- Final Power BI Report file
 ├── Images/
-│   ├── Product Analysis.png                   <-- Page 1 Screenshot
-│   └── Regional Analysis.png                   <-- Page 2 Screenshot
+│   ├── Product_Analysis.png                   <-- Page 1 Screenshot
+│   └── Regional_Analysis.png                   <-- Page 2 Screenshot
 └── README.md                              <-- Project documentation
