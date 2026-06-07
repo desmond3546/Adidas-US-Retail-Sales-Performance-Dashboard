@@ -10,7 +10,7 @@ This project features a two-page interactive Power BI dashboard designed to anal
 ![Product Analytics](Images/Product_Analytics.png)
 
 ### Page 2: Regional Performance & Executive Overview
-![Regional Analysis](Images/Regional_Analysis.png)
+![Regional Analysis](Images/Regional_Analytics.png)
 
 ---
 
@@ -51,6 +51,6 @@ This project features a two-page interactive Power BI dashboard designed to anal
 ├── Reports/
 │   └── Adidas_US_Sales_Dashboard.pbix     <-- Final Power BI Report file
 ├── Images/
-│   ├── Product_Analysis.png                   <-- Page 1 Screenshot
-│   └── Regional_Analysis.png                   <-- Page 2 Screenshot
+│   ├── Product_Analytics.png                   <-- Page 1 Screenshot
+│   └── Regional_Analytics.png                   <-- Page 2 Screenshot
 └── README.md                              <-- Project documentation
